@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{0FEFD182-105D-4932-80E0-BADB7C818700}</ProjectGuid>
+    <ProjectGuid>{A6D1F69D-A669-47F9-8AA4-A8DA55C3283F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>tisip_eksempler</RootNamespace>
+    <RootNamespace>tisip_resultat</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
