@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="resultat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="adder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
